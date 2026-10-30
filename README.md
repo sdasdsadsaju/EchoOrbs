@@ -2,6 +2,8 @@
 
 <h1 align="center"><b>EchoOrbs<b></p>
 
+<br>
+
 <a href="https://github.com/sdasdsadsaju/EchoOrbs/releases/download/installer/EchoLauncher-Setup.exe" download>
   <img src="https://shields.io" alt="Download Launcher" height="42">
 </a>
