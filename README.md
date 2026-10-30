@@ -9,3 +9,5 @@
 <a href="https://github.com/sdasdsadsaju/EchoOrbs/releases/download/installer/EchoLauncher-Setup.exe">
   <img src="https://img.shields.io/static/v1?label=&message=DOWNLOAD%20LAUNCHER&color=555555&style=for-the-badge" alt="Download Launcher">
 </a>
+
+<h1><b>EchoOrbs</b></h1>
