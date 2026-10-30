@@ -6,10 +6,6 @@
 
 <p><b>Hi! This is a game about repeating sounds; you earn points for doing so. You can use these points to buy skins. Have fun with your friends, and so on!</b></p>
 
-<br>
-
-<a href="https://github.com" download>
-  <img src="https://shields.io" alt="Download Launcher">
+<a href="https://github.com/sdasdsadsaju/EchoOrbs/releases/download/installer/EchoLauncher-Setup.exe">
+  <img src="https://img.shields.io/static/v1?label=&message=DOWNLOAD%20LAUNCHER&color=555555&style=for-the-badge" alt="Download Launcher">
 </a>
-
-</div>
