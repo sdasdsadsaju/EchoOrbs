@@ -10,4 +10,6 @@
   <img src="https://img.shields.io/static/v1?label=&message=DOWNLOAD%20LAUNCHER&color=555555&style=for-the-badge" alt="Download Launcher">
 </a>
 
-<h1><b>EchoOrbs</b></h1>
+<h1><b>Screenshots</b></h1>
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fb07b119-11b3-48fb-bedd-3d745884c7a0" />
